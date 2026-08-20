@@ -1,0 +1,33 @@
+{
+  "_resourceType": "trigger",
+  "id": "fd9c0d12-ee05-41dc-8f39-f1674860300a",
+  "name": "House entrance",
+  "prefabId": "",
+  "x": 10,
+  "y": 8,
+  "symbol": "trigger_7",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "afbe734d-7f47-4d00-86ce-27f8ad8518c7",
+        "x": {
+          "type": "number",
+          "value": 9
+        },
+        "y": {
+          "type": "number",
+          "value": 15
+        },
+        "direction": "up",
+        "fadeSpeed": "2"
+      },
+      "id": "c9ca2f3e-5ed1-4ff1-beef-5a2fee8aee09"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}
