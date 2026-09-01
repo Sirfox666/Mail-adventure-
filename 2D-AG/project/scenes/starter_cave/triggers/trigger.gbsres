@@ -11,21 +11,75 @@
   "height": 2,
   "script": [
     {
-      "command": "EVENT_SWITCH_SCENE",
+      "command": "EVENT_IF",
       "args": {
-        "sceneId": "2e4346bd-4363-4678-8599-956c091aae45",
-        "x": {
-          "type": "number",
-          "value": 10
+        "condition": {
+          "type": "not",
+          "value": {
+            "type": "variable",
+            "value": "0"
+          }
         },
-        "y": {
-          "type": "number",
-          "value": 9
-        },
-        "direction": "down",
-        "fadeSpeed": "2"
+        "__collapseElse": false
       },
-      "id": "05b0c7e8-dd1f-485d-817d-149bed3ede09"
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_EMOTE",
+            "args": {
+              "actorId": "$self$",
+              "emoteId": "da932101-c304-4f21-8dc9-0f5dc6178727"
+            },
+            "id": "4f6480a2-1872-434c-b62c-f41b7dc71c40"
+          },
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "You must find the \nduck to exist the \nroom."
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30
+            },
+            "id": "ca7661c5-86f3-45f4-a5ff-ad12467f67c1"
+          }
+        ],
+        "false": [
+          {
+            "command": "EVENT_SWITCH_SCENE",
+            "args": {
+              "sceneId": "2e4346bd-4363-4678-8599-956c091aae45",
+              "x": {
+                "type": "number",
+                "value": 10
+              },
+              "y": {
+                "type": "number",
+                "value": 9
+              },
+              "direction": "down",
+              "fadeSpeed": "2",
+              "__collapse": false
+            },
+            "id": "05b0c7e8-dd1f-485d-817d-149bed3ede09"
+          }
+        ]
+      },
+      "id": "fb0fb5ef-77de-409e-b22c-9cb2218173e8"
     }
   ],
   "leaveScript": [],
