@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "d2f94fd2-f4dd-4b6d-90a8-609cace72f20",
+  "name": "car sprite",
+  "symbol": "sprite_car_sprite",
+  "states": [
+    {
+      "id": "ba6d3317-9881-48e5-992e-6d49e407dfaa",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "2d95d13c-c59d-43de-99dd-830b247fe018",
+          "frames": [
+            {
+              "id": "a37be6eb-45e0-4701-a6de-51152402e6c5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "99c0bf24-4331-45bc-b291-c0d2922c2164",
+          "frames": [
+            {
+              "id": "07c21594-6004-4703-b60a-dc1105dbbbe7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d8ca11a2-2e91-4faa-9de1-a2159b3d5131",
+          "frames": [
+            {
+              "id": "46c94938-f6c5-4808-94eb-6df91f4541bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5cb9067a-b6ab-4d05-b7c8-5a781fcff435",
+          "frames": [
+            {
+              "id": "d212692c-dbf3-4572-903f-e281fcc3e3e2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "34020f1d-6c9e-4036-a940-76af50c57703",
+          "frames": [
+            {
+              "id": "7e0d26bf-d63a-4e30-8543-0910944dcd87",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "64f28a62-6109-4907-be36-a1b752c7f87d",
+          "frames": [
+            {
+              "id": "c5c80730-91d1-4c6b-bcfc-dc3f6a523c90",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "43d1746b-25d2-4664-b587-35f47d5550a1",
+          "frames": [
+            {
+              "id": "ddc1c5d8-559e-4bc7-805b-033a671d2822",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b2554052-b286-4046-be72-4f184c6bb48c",
+          "frames": [
+            {
+              "id": "cdd1fccb-f26f-4643-8ce4-d9b844881987",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "car sprite.png",
+  "width": 160,
+  "height": 144,
+  "checksum": "b47d3a31ac74719211e480d962c60a94dcdc40c8"
+}
