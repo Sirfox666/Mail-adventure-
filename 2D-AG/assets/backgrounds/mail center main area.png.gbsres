@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "39d750e1-5080-4e68-995e-bffccbcee48f",
+  "name": "mail center main area",
+  "symbol": "bg_mail_center_main_area",
+  "tileColors": "",
+  "filename": "mail center main area.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

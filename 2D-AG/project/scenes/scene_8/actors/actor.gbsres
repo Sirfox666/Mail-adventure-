@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "b1ad7b13-ef13-40fa-9ac5-3a1704b74102",
+  "id": "312b348f-cb2b-4d7c-88b7-b765af0cc432",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "e20ce140-53a5-4b1b-9964-138ba0c86925",
+  "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -15,13 +15,13 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_16",
+  "symbol": "actor_20",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          ""
+          "East town "
         ],
         "__section": "text",
         "avatarId": "",
@@ -38,10 +38,9 @@
         "closeWhen": "key",
         "closeButton": "a",
         "closeDelayTime": 0.5,
-        "closeDelayFrames": 30,
-        "__collapse": false
+        "closeDelayFrames": 30
       },
-      "id": "0750cff9-d025-401f-95ef-0228fbf0c70d"
+      "id": "b14a88f2-fcc7-4ca4-96e4-d55f823607f4"
     }
   ],
   "startScript": [],
@@ -50,7 +49,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 9,
-  "y": 6,
+  "x": 3,
+  "y": 12,
   "_index": 0
 }

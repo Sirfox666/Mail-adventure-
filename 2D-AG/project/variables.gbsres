@@ -38,8 +38,8 @@
     },
     {
       "id": "7",
-      "name": "Quest4",
-      "symbol": "var_quest4"
+      "name": "mailLetter",
+      "symbol": "var_mailletter"
     },
     {
       "id": "8",
@@ -65,6 +65,11 @@
       "id": "12",
       "name": "PushedIceBlock",
       "symbol": "var_pushediceblock"
+    },
+    {
+      "id": "13",
+      "name": "foundMail",
+      "symbol": "var_foundmail"
     }
   ],
   "constants": []

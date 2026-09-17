@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "be75262b-4be2-4839-a2f7-4f1207476fbc",
+  "name": "outside town",
+  "symbol": "bg_outside_town",
+  "tileColors": "",
+  "filename": "outside town.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

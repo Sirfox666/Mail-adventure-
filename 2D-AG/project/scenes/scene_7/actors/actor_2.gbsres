@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "b1ad7b13-ef13-40fa-9ac5-3a1704b74102",
+  "id": "24623895-5f84-4325-b200-a7ff267b5bfe",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "e20ce140-53a5-4b1b-9964-138ba0c86925",
+  "spriteSheetId": "28cdf9cd-6f21-4c0c-bb87-edafe571a3cd",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -15,13 +15,21 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_16",
+  "symbol": "actor_17",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          ""
+          "Morning kid.\nToday is your \nfirst day huh?",
+          "We are going small\nfor you today.\n",
+          "you are going to \ndeliver mail to \nmy grandmother.",
+          "she has been a \nbit cranky \nrecently",
+          "about me \ndelivering her \nmail.",
+          "her mail at the \npick up. ",
+          "she lives\nat the small city \neast of here.",
+          "If you get lost\nask for where\nStacy lives at.",
+          "The people over \nthere know my \ngrandmother."
         ],
         "__section": "text",
         "avatarId": "",
@@ -38,10 +46,9 @@
         "closeWhen": "key",
         "closeButton": "a",
         "closeDelayTime": 0.5,
-        "closeDelayFrames": 30,
-        "__collapse": false
+        "closeDelayFrames": 30
       },
-      "id": "0750cff9-d025-401f-95ef-0228fbf0c70d"
+      "id": "3b27a392-1443-465c-9e9f-be77e050c6fd"
     }
   ],
   "startScript": [],
@@ -51,6 +58,6 @@
   "hit3Script": [],
   "coordinateType": "tiles",
   "x": 9,
-  "y": 6,
-  "_index": 0
+  "y": 7,
+  "_index": 1
 }

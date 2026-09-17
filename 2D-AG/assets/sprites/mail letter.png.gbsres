@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "cc5e5c3d-6e88-484b-9625-eb49b034737d",
+  "name": "mail letter",
+  "symbol": "sprite_mail_letter",
+  "states": [
+    {
+      "id": "e8bcf35c-f259-4023-87f5-ddc743a82220",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "5791d82a-b2b5-4767-b796-0833f0032094",
+          "frames": [
+            {
+              "id": "2e70df11-66b9-438b-9695-e9739a4f8ef3",
+              "tiles": [
+                {
+                  "id": "4dba8fce-0d4e-49d3-b20d-351a73e292e9",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "7accb104-fc56-413a-b9c1-d4571075fee7",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d36fa14b-fa3e-48c3-b798-d66267b0b546",
+          "frames": [
+            {
+              "id": "211234eb-b75d-478f-b0ba-d36337a8e50a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "86a9d6e1-0cc7-4691-abfd-08acfa398499",
+          "frames": [
+            {
+              "id": "dac7bb9a-f6e4-49a2-b6b9-492a8c13c771",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3c8132bb-780c-4f90-ac4d-493f8da11041",
+          "frames": [
+            {
+              "id": "aa404f3e-37de-45c7-a33d-3d96f9e6e5c9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dc591f7a-c5ff-431f-ae89-da9c308ac258",
+          "frames": [
+            {
+              "id": "eb98b0bb-cdb5-4fff-b429-e6b93a12a0a6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "67af75be-9308-46cf-8572-4ecda2da8a3c",
+          "frames": [
+            {
+              "id": "86bf7735-65b7-45bf-9378-3f76ea51d0e5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "61c9fa9a-566e-4e79-bcc3-e3dc8957549a",
+          "frames": [
+            {
+              "id": "53f00e10-d159-452d-9bc5-54b9f2102eee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a9179835-ed7f-4870-9db4-c376d14c21e4",
+          "frames": [
+            {
+              "id": "782c0db6-3972-4966-85b2-2c1c2fc806e7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "mail letter.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "85505d6aa779035dd8d27c40619f90557e3c5ff3"
+}

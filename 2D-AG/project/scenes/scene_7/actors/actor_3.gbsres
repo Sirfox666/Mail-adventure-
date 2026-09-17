@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "b1ad7b13-ef13-40fa-9ac5-3a1704b74102",
+  "id": "94c4ec4e-70bd-4a72-9859-a2b5ef1f8b0f",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "e20ce140-53a5-4b1b-9964-138ba0c86925",
+  "spriteSheetId": "cc5e5c3d-6e88-484b-9625-eb49b034737d",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -15,13 +15,14 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_16",
+  "symbol": "actor_18",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          ""
+          "A letter with a \nname on it.",
+          "name: Stacy\ndeliver at east \ntown."
         ],
         "__section": "text",
         "avatarId": "",
@@ -38,10 +39,26 @@
         "closeWhen": "key",
         "closeButton": "a",
         "closeDelayTime": 0.5,
-        "closeDelayFrames": 30,
-        "__collapse": false
+        "closeDelayFrames": 30
       },
-      "id": "0750cff9-d025-401f-95ef-0228fbf0c70d"
+      "id": "f156cf13-1478-45e2-b28d-f452986b7f6b"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "7",
+        "value": {
+          "type": "true"
+        }
+      },
+      "id": "eeb2d6a7-4c83-4a3a-aca2-e35dddb6a8f1"
+    },
+    {
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "25830219-8088-4bae-a885-0909d30448f5"
     }
   ],
   "startScript": [],
@@ -50,7 +67,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 9,
-  "y": 6,
-  "_index": 0
+  "x": 16,
+  "y": 7,
+  "_index": 2
 }

@@ -23,7 +23,8 @@
         "variable": "0",
         "value": {
           "type": "true"
-        }
+        },
+        "__collapse": false
       },
       "id": "e17d95f8-3065-4b78-a78b-09b13ec663a6"
     },
@@ -54,7 +55,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 4,
+  "x": 5,
   "y": 8,
   "_index": 1
 }
