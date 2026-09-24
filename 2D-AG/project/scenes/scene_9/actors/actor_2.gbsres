@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "312b348f-cb2b-4d7c-88b7-b765af0cc432",
+  "id": "57b5cea5-0f8f-475e-80e5-09deb4b08eb2",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+  "spriteSheetId": "dfa75239-299d-41fe-a6cd-9e9438da1938",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -15,13 +15,18 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_20",
+  "symbol": "actor_21",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "East town \nthis way -->"
+          "Hi, you must be \nnew here.",
+          "Names bob. seeing\nthat mail bag you\nhave,",
+          "you must be \nthe new mailman.",
+          "If you are looking \nfor mikes grandmom,\nStacy",
+          "she's over at the \nhouse northeast\nof here.",
+          "Can't \nmiss it."
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +45,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b14a88f2-fcc7-4ca4-96e4-d55f823607f4"
+      "id": "dfe02dbb-0de2-4fb7-b307-3ecc0a643782"
     }
   ],
   "startScript": [],
@@ -49,7 +54,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 17,
-  "y": 12,
-  "_index": 0
+  "x": 12,
+  "y": 14,
+  "_index": 1
 }

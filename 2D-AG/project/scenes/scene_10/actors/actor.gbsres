@@ -1,12 +1,12 @@
 {
   "_resourceType": "actor",
-  "id": "312b348f-cb2b-4d7c-88b7-b765af0cc432",
+  "id": "107817b6-c9b0-4bf1-b0bc-00e66b694fd0",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+  "spriteSheetId": "40dcd163-9f72-4861-8131-b01eb9baa000",
   "prefabId": "",
-  "direction": "down",
+  "direction": "right",
   "moveSpeed": 1,
   "animSpeed": 15,
   "paletteId": "",
@@ -15,13 +15,20 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_20",
+  "symbol": "actor_22",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "East town \nthis way -->"
+          "Oh hello sweetie.\nyou must be here",
+          "from the mail \ncenter my nephew\nwork at.",
+          "I keep telling him \nto stop worrying ",
+          "about me but his \nmother says",
+          "he should be the \none to deliver ",
+          "my mail but I keep \ntelling her not to \nworry",
+          "but you don't want\nto hear me ramble.",
+          "Thank you again \ndarling for the \nmail."
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +47,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b14a88f2-fcc7-4ca4-96e4-d55f823607f4"
+      "id": "24668b61-3bc7-487f-b7e2-f90ad278eabc"
     }
   ],
   "startScript": [],
@@ -49,7 +56,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 17,
-  "y": 12,
+  "x": 3,
+  "y": 5,
   "_index": 0
 }

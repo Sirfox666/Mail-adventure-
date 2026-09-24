@@ -21,12 +21,12 @@
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Morning kid.\nToday is your \nfirst day huh?",
+          "Morning kid.\nToday the day\nhuh?",
           "We are going small\nfor you today.\n",
           "you are going to \ndeliver mail to \nmy grandmother.",
           "she has been a \nbit cranky \nrecently",
           "about me \ndelivering her \nmail.",
-          "her mail at the \npick up. ",
+          "her mail's at the \npick up. ",
           "she lives\nat the small city \neast of here.",
           "If you get lost\nask for where\nStacy lives at.",
           "The people over \nthere know my \ngrandmother."

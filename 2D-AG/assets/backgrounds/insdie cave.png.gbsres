@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "debf2514-0735-47e2-8f54-7fd238a8875b",
+  "name": "insdie cave",
+  "symbol": "bg_insdie_cave",
+  "tileColors": "",
+  "filename": "insdie cave.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

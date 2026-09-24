@@ -1,6 +1,6 @@
 {
   "_resourceType": "actor",
-  "id": "312b348f-cb2b-4d7c-88b7-b765af0cc432",
+  "id": "e4cfbaae-3743-4868-adc6-91763dc26e2d",
   "name": "",
   "frame": 0,
   "animate": false,
@@ -15,13 +15,14 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_20",
+  "symbol": "actor_15",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "East town \nthis way -->"
+          "East town.\n",
+          "Main city -->"
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +41,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b14a88f2-fcc7-4ca4-96e4-d55f823607f4"
+      "id": "bacb7d3a-d19c-4e2a-98be-a71d94d88482"
     }
   ],
   "startScript": [],
@@ -50,6 +51,6 @@
   "hit3Script": [],
   "coordinateType": "tiles",
   "x": 17,
-  "y": 12,
+  "y": 15,
   "_index": 0
 }

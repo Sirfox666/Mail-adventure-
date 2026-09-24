@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "19f8a7a7-f1f4-4e13-aa6a-38e84e708194",
+  "name": "forest with cave",
+  "symbol": "bg_forest_with_cave",
+  "tileColors": "",
+  "filename": "forest with cave.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

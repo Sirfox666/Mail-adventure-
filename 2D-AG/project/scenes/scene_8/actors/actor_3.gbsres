@@ -1,6 +1,6 @@
 {
   "_resourceType": "actor",
-  "id": "312b348f-cb2b-4d7c-88b7-b765af0cc432",
+  "id": "642e03ee-cc9f-42b7-bef5-46fed642620b",
   "name": "",
   "frame": 0,
   "animate": false,
@@ -15,13 +15,13 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_20",
+  "symbol": "actor_26",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "East town \nthis way -->"
+          "Forest down south."
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +40,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b14a88f2-fcc7-4ca4-96e4-d55f823607f4"
+      "id": "90bec70c-8e52-4f0e-9dff-22f1d3bea3a4"
     }
   ],
   "startScript": [],
@@ -49,7 +49,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 17,
-  "y": 12,
-  "_index": 0
+  "x": 6,
+  "y": 16,
+  "_index": 2
 }

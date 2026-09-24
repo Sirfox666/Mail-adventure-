@@ -1,12 +1,12 @@
 {
   "_resourceType": "actor",
-  "id": "312b348f-cb2b-4d7c-88b7-b765af0cc432",
+  "id": "0bcdb970-cf74-48e7-b933-822c3aa91857",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+  "spriteSheetId": "52ad34df-f245-4b2a-b94c-a82af1002871",
   "prefabId": "",
-  "direction": "down",
+  "direction": "left",
   "moveSpeed": 1,
   "animSpeed": 15,
   "paletteId": "",
@@ -15,13 +15,17 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_20",
+  "symbol": "actor_25",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "East town \nthis way -->"
+          "Hi, did you know \nthat cats for the",
+          "70% of cats lives \nare spent sleeping?",
+          "They also can\nunattached their \ncollarbones ",
+          "to be able to \nsqueeze though\ntight spaces?",
+          "Weird but cool \nright?"
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +44,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b14a88f2-fcc7-4ca4-96e4-d55f823607f4"
+      "id": "e1e24c7f-94d4-4c6d-80a5-adabec5c3c3f"
     }
   ],
   "startScript": [],
@@ -49,7 +53,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 17,
-  "y": 12,
-  "_index": 0
+  "x": 14,
+  "y": 14,
+  "_index": 1
 }

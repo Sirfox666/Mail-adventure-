@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "dbd8dd7e-7fc0-4d23-a6b8-b112d0e225eb",
+  "name": "forest with campsite",
+  "symbol": "bg_forest_with_campsite",
+  "tileColors": "",
+  "filename": "forest with campsite.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}
