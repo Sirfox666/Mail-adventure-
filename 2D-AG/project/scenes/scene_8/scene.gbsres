@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "22ce4588-01ef-43ca-bd30-00a442c36b50",
-  "_index": 5,
+  "_index": 1,
   "name": "Scene 7",
   "backgroundId": "f458ae71-b027-444c-bf81-08194fbf090f",
   "tilesetId": "",
@@ -11,7 +11,7 @@
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "002d+0f5+00f+0f5+00f+0f4+0010f+",
+  "collisions": "002d+0f5+00f+0f5+00f+0f5+0010e+",
   "autoFadeSpeed": 1,
   "symbol": "scene_7",
   "x": 432,

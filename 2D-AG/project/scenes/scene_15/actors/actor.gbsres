@@ -1,0 +1,61 @@
+{
+  "_resourceType": "actor",
+  "id": "b9033964-3119-4af2-8b5f-e3c7ea8ce67b",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "40dcd163-9f72-4861-8131-b01eb9baa000",
+  "prefabId": "",
+  "direction": "right",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_31",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Never seen you \nbefore around here.",
+          "Not like it \nmatters anyways.",
+          "But I do see that\nyou have mail,",
+          "which mean your \nthe mailman.",
+          "Been needing a \nnew gas nozzle",
+          "for a while mew.\nthanks for getting",
+          "it over to me kid."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "ea952b59-9b62-4741-9da1-40628fb6ab08"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 5,
+  "y": 14,
+  "_index": 0
+}

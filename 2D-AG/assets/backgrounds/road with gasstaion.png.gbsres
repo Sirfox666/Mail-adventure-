@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "fd0773f2-448c-4e1f-a77d-029249a7eb00",
+  "name": "road with gasstaion",
+  "symbol": "bg_road_with_gasstaion",
+  "tileColors": "",
+  "filename": "road with gasstaion.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

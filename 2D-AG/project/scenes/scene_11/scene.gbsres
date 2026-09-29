@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "f18f7e5c-dcfd-4426-8e23-fc58b9562773",
-  "_index": 8,
+  "_index": 4,
   "name": "Scene 9",
   "backgroundId": "36358631-ae17-401c-869e-6eb8e2b0a800",
   "tilesetId": "",
@@ -11,7 +11,7 @@
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "00127+0f2+00!0f2+00f+0f5+00f+0f5+00f+0f5+",
   "autoFadeSpeed": 1,
   "symbol": "scene_9",
   "x": 640,

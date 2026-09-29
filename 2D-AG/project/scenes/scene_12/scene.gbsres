@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "708e3033-9c3d-40ac-929f-1f56aee99c33",
-  "_index": 9,
+  "_index": 5,
   "name": "Scene 11",
   "backgroundId": "19f8a7a7-f1f4-4e13-aa6a-38e84e708194",
   "tilesetId": "",
@@ -11,7 +11,7 @@
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "00123+0f3+002+0f4+00b+0f9+00b+0f9+00b+0f9+",
   "autoFadeSpeed": 1,
   "symbol": "scene_11",
   "x": 440,

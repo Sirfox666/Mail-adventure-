@@ -16,7 +16,43 @@
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "symbol": "actor_28",
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Oh wow! I wasn't \nexpecting anyone ",
+          "to be here, let\nalone a mailman.",
+          "I'm Jim and this \nis my home.",
+          "what? never seen \na man make his ",
+          "own home? Well now\nyou have!",
+          "Anyways, you have \nmail? is it for me?",
+          "Must have been a \ncouple of years ",
+          "old now, been down \nhere for....",
+          "I lost time, been \nawhile since I've",
+          "been here but that\nbesides the point.",
+          "Thank you again\nfor the mail."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "ae2c2b44-3aa7-4f42-890a-c5624dedbdeb"
+    }
+  ],
   "startScript": [],
   "updateScript": [],
   "hit1Script": [],
